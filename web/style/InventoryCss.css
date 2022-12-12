@@ -1,0 +1,14 @@
+#avatar {
+    border: 0px;
+    mix-blend-mode: multiply;
+}
+
+body {
+    background-color: #7A6174;
+    color: black;
+}
+.card {
+    background-color: #BF95B2;
+}
+
+
